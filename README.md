@@ -1,12 +1,15 @@
 zh_project
+è¯å‘é‡ä¸‹è½½ï¼š
+https://pan.baidu.com/s/1sKO_MZqzcGccJm86NrKEtw
+q0en
 
-ÎÄ¼ş
-Utils£º Ä£ĞÍÑ¡Ôñ
-Config£ºÑµÁ·ºÍÔ¤²â²ÎÊıÑ¡Ôñ
-Attention£º×Ô¶¨ÒåattentionÍøÂç²ã
-Predict£ºÔ¤²â
-Classifier_model_train£ºÄ£ĞÍÑµÁ·
+æ–‡ä»¶
+Utilsï¼š æ¨¡å‹é€‰æ‹©
+Configï¼šè®­ç»ƒå’Œé¢„æµ‹å‚æ•°é€‰æ‹©
+Attentionï¼šè‡ªå®šä¹‰attentionç½‘ç»œå±‚
+Predictï¼šé¢„æµ‹
+Classifier_model_trainï¼šæ¨¡å‹è®­ç»ƒ
 
-ÎÄ¼ş¼Ğ
-data£ºÑµÁ·Êı¾İ£¬´ÊÏòÁ¿
-*_model£ºÄ£ĞÍ´æ´¢Â·¾¶
+æ–‡ä»¶å¤¹
+dataï¼šè®­ç»ƒæ•°æ®ï¼Œè¯å‘é‡
+*_modelï¼šæ¨¡å‹å­˜å‚¨è·¯å¾„
